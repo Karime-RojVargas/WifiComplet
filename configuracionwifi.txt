@@ -1,0 +1,11 @@
+AT+CWJAP="LSyC-WIFI","a1a2a3itd" Conectarse con un Punto de Acceso específico
+AT+CIFSR * Mostrar la IP asignada (Según modelo, muestra dirección MAC)
+AT+CIPMUX=1 Habilita múltiples conexiones simultaneas
+AT+CIPSERVER=1,8081 Arranca un servicio WEB (No. de Servicio=1, puerto 8081)
+
+
+TEMPERATURA SEMAFORO CON  WIFI 
+QUE TENGAN DOS TEMPERATURAS. 
+UNA BAJA Y UNA ALTA. 
+MANDAR LA CONFIGURACION DEL CELULAR AL MODULO PARA CONFIGURARLO A CIERTA TEMPERATURA(BAJA Y ALTA)
+
